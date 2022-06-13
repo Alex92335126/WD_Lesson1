@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: cornflowerblue;
+    text-transform: uppercase;
+}
+
+hr {
+    border: 5px double rgba(239, 233, 57, 0.851);
+}
